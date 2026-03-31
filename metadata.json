@@ -1,0 +1,8 @@
+{
+  "name": "Arpi_V3_003",
+  "description": "Bearro\u0027s Arpi_V3_003",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
